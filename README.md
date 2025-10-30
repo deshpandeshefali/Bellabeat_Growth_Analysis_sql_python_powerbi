@@ -61,15 +61,15 @@ Time Frame: April 2016 to May 2016
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-### The analysis was divided into four main pages/sections, mirroring a comprehensive BI dashboard structure:
+- The analysis was divided into four main pages/sections, mirroring a comprehensive BI dashboard structure:
 
-### Weekly Fitness Overview: Analysis of average daily activity, steps, calories, and user segmentation.
+- Weekly Fitness Overview: Analysis of average daily activity, steps, calories, and user segmentation.
 
-### Heart Rate and Activity Intensity Analysis: Categorization and visualization of heart rate zones and Metabolic Equivalent (MET) levels.
+- Heart Rate and Activity Intensity Analysis: Categorization and visualization of heart rate zones and Metabolic Equivalent (MET) levels.
 
-### Hourly and Daily Activity Patterns: Identification of peak usage hours for steps, calories, and intensity.
+- Hourly and Daily Activity Patterns: Identification of peak usage hours for steps, calories, and intensity.
 
-### Sleep and Health Status Analysis: Examination of sleep quality metrics and Body Mass Index (BMI) categorization.
+- Sleep and Health Status Analysis: Examination of sleep quality metrics and Body Mass Index (BMI) categorization.
 
 <h2><a class="anchor" id="data-cleaning"></a>Data cleaning and preparation</h2>
 
