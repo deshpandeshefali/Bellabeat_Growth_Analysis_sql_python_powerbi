@@ -2,18 +2,18 @@
 
 **A data-driven analysis of public smart device usage data to uncover trends in activity, sleep, and health, providing actionable marketing recommendations for Bellabeat, a health-focused company for women.**
 
-<a href = "#overview">Overview</a>
-<a href = "#problem-statement">Problem Statement</a>
-<a href = "#dataset">Dataset</a>
-<a href = "#key-data-files-used">Key data files used</a>
-<a href = "#tools-and-technologies">Tools and Technologies</a>
-<a href = "#project-structure">Project Structure</a>
-<a href = "#data-cleaning-and-preparation">Data cleaning and preparation</a>
-<a href = "#eda">EDA</a>
-<a href = "#questions-findings">Questions and Findings</a>
-<a href = "#dashboard">Dashboard</a>
-<a href = "#recommendations">Recommendations</a>
-<a href = "#author-contact">Author and Contact</a>
+<a href = "#overview">Overview</a><br>
+<a href = "#problem-statement">Problem Statement</a><br>
+<a href = "#dataset">Dataset</a><br>
+<a href = "#key-data-files-used">Key data files used</a><br>
+<a href = "#tools-and-technologies">Tools and Technologies</a><br>
+<a href = "#project-structure">Project Structure</a><br>
+<a href = "#data-cleaning-and-preparation">Data cleaning and preparation</a><br>
+<a href = "#eda">EDA</a><br>
+<a href = "#questions-findings">Questions and Findings</a><br>
+<a href = "#dashboard">Dashboard</a><br>
+<a href = "#recommendations">Recommendations</a><br>
+<a href = "#author-contact">Author and Contact</a><br>
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
@@ -168,6 +168,6 @@ Time Frame: April 2016 to May 2016
 
 **Shefali Deshpande**
 Aspiring Data Analyst
-Email : dshef20@gmail.com
-[LinkedIn][https://www.linkedin.com/in/shefali-deshpande/]
-[Portfolio][https://github.com/deshpandeshefali]
+Email : dshef20@gmail.com <br>
+[LinkedIn][https://www.linkedin.com/in/shefali-deshpande/] <br>
+[Portfolio][https://github.com/deshpandeshefali] 
