@@ -138,11 +138,18 @@ Time Frame: April 2016 to May 2016
 
 1. Average Total Steps by Day of Week: Line Chart
 2. Count of Users by User Segment (Steps): Donut Chart
-3. Average Active Minutes Breakdown by Day: Stacked Bar Chart
+3. Total Active Minutes Breakdown by Day: Stacked Bar Chart
 4. Total Calories Burned by Day of the Week: Area Chart
 5. Hourly Average Calorie Expenditure Trend: Line Chart
-6. Average Time Awake In Bed by Day of the Week (Minutes): Bar Chart
+6. Daily Total Time Awake In Bed by Day of the Week (Minutes): STacked Bar Chart
 7. User Count by BMI Health Status: Bar/Column Chart (showing distribution across Underweight, Normal, Overweight, Obese)
+8. Count of ID by Heart Category : Stacked bar chart
+9. Total Minutes asleep by Day Name : Stacked Bar chart
+10. Count of ID by MET Caetgory : Line chart
+11. METs by quarter : Line chart
+12. Avg Intensity by Hour : Area chart
+13. Calories by Hour : Line chart
+14. Steps by Hour : Line chart
 
 <h2><a class="anchor" id="recommendations"></a>Recommendations</h2>
 
